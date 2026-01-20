@@ -1,4 +1,4 @@
-# 💫 Hi there! I'm Lumentaus 🤓
+# 💫 Hi there! I'm Lumentaus 💫
 🔭 I’m currently working with mainly PHP.<br>🌱 I’m currently learning Laravel & Vue<br>⚡ Fun fact - I am also a Graphic Designer. Been working with different social media influencers for 7 years.
 
 
